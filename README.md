@@ -1,5 +1,5 @@
 ## Hi there, I'm Yusra 👋
-I'm doing a bachelor's in Data Science -a lovely mix of computer science, math/stats and data. I've loved this type of work for a while, but have loved art for even longer! You may notice that in my projects and how I look at the field through an artist's lens 🎨🔍
+I'm doing a bachelor's in Data Science -a beautiful mix of computer science, math/stats and data. I've loved this type of work for a while, but have loved art for even longer! You may notice that in my projects and how I look at the field through an artist's lens 🎨🔍
 
 - 🔭 I’m currently working on a personal website that will combine my love for art and sewing with a lot of the programming skills I've acquired over the years.
 - 🌱 I’m currently learning scikitlearn, tensorflow, beautifulsoup and flask from python. I'm also learning more about PowerBI and Microsoft Azure.
